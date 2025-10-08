@@ -1,4 +1,5 @@
 #Histrograma
+#¿Cuanto tiempo tardas en llegar a la Universidad en minutos?
 import matplotlib.pyplot as plt
 
 
